@@ -1,0 +1,6 @@
+[
+  { "name": "join/leave", "enabled": false, "channel": "" },
+  { "name": "message", "enabled": false, "channel": "" },
+  { "name": "moderation", "enabled": false, "channel": "" },
+  { "name": "website", "enabled": false, "channel": "" }
+]
